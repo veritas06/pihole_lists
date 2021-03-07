@@ -386,3 +386,7 @@
 # Found when searching for "Truth Revolt"
 0.0.0.0 horowitzfreedomcenter.org
 0.0.0.0 www.horowitzfreedomcenter.org
+
+# 20210306: SMc: Adding gab.social after seeing https://github.com/micahflee/gab-social
+0.0.0.0 gab.social
+0.0.0.0 www.gab.social
