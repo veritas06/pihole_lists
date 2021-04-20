@@ -390,3 +390,7 @@
 # 20210306: SMc: Adding gab.social after seeing https://github.com/micahflee/gab-social
 0.0.0.0 gab.social
 0.0.0.0 www.gab.social
+
+# 20210420: SMc: Adding Frank Speech, by Mike Lindell (the My Pillow guy).
+0.0.0.0 frankspeech.com
+0.0.0.0 www.frankspeech.com
