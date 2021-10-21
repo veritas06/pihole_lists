@@ -409,5 +409,8 @@
 0.0.0.0 www.freespacesocial.app
 
 # 20211021: SMc: trump's nwe "social network"
+# https://mashable.com/article/trump-truth-social-hacked-trolls
 0.0.0.0 truthsocial.com
 0.0.0.0 www.truthsocial.com
+0.0.0.0 tmediatech.io
+0.0.0.0 www.tmediatech.io
