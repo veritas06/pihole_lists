@@ -1,420 +1,420 @@
 # https://rightsmarts.com/top-conservative-websites/
 # 1. FOX News One America News Network
-0.0.0.0 www.foxnews.com
-0.0.0.0 foxnews.com
-0.0.0.0 www.oann.com
-0.0.0.0 oann.com
+www.foxnews.com
+foxnews.com
+www.oann.com
+oann.com
 # 2. Breitbart News Network
-0.0.0.0 www.breitbart.com
-0.0.0.0 breitbart.com
+www.breitbart.com
+breitbart.com
 # 3. Western Journal
-0.0.0.0 www.westernjournal.com
-0.0.0.0 westernjournal.com
+www.westernjournal.com
+westernjournal.com
 # 4. THE DRUDGE REPORT THE BONGINO REPORT
-0.0.0.0 drudgereport.com
-0.0.0.0 www.drudgereport.com
-0.0.0.0 bonginoreport.com
-0.0.0.0 www.bonginoreport.com
+drudgereport.com
+www.drudgereport.com
+bonginoreport.com
+www.bonginoreport.com
 # 5. Daily Caller
-0.0.0.0 dailycaller.com
-0.0.0.0 www.dailycaller.com
+dailycaller.com
+www.dailycaller.com
 # 6. Zero Hedge
-0.0.0.0 zerohedge.com
-0.0.0.0 www.zerohedge.com
+zerohedge.com
+www.zerohedge.com
 # 7. Daily Wire
-0.0.0.0 dailywire.com
-0.0.0.0 www.dailywire.com
+dailywire.com
+www.dailywire.com
 # 8. InfoWars
-0.0.0.0 infowars.com
-0.0.0.0 www.infowars.com
+infowars.com
+www.infowars.com
 # 9. Washington Examiner
-0.0.0.0 washingtonexaminer.com
-0.0.0.0 www.washingtonexaminer.com
+washingtonexaminer.com
+www.washingtonexaminer.com
 # 10. The Gateway Pundit
-0.0.0.0 thegatewaypundit.com
-0.0.0.0 www.thegatewaypundit.com
+thegatewaypundit.com
+www.thegatewaypundit.com
 # 11. WayneDupree.com
-0.0.0.0 waynedupree.com
-0.0.0.0 www.waynedupree.com
+waynedupree.com
+www.waynedupree.com
 # 12. Washington Times
-0.0.0.0 washingtontimes.com
-0.0.0.0 www.washingtontimes.com
+washingtontimes.com
+www.washingtontimes.com
 # 13. The Blaze
-0.0.0.0 theblaze.com
-0.0.0.0 www.theblaze.com
+theblaze.com
+www.theblaze.com
 # 14. BizPac Review
-0.0.0.0 bizpacreview.com
-0.0.0.0 www.bizpacreview.com
+bizpacreview.com
+www.bizpacreview.com
 # 15. National Review
-0.0.0.0 nationalreview.com
-0.0.0.0 www.nationalreview.com
+nationalreview.com
+www.nationalreview.com
 # 16. WorldNetDaily (WND)
-0.0.0.0 wnd.com
-0.0.0.0 www.wnd.com
+wnd.com
+www.wnd.com
 # 17. Townhall
-0.0.0.0 townhall.com
-0.0.0.0 www.townhall.com
+townhall.com
+www.townhall.com
 # 18. PJ Media
-0.0.0.0 pjmedia.com
-0.0.0.0 www.pjmedia.com
+pjmedia.com
+www.pjmedia.com
 # 19. Judicial Watch
-0.0.0.0 judicialwatch.org
-0.0.0.0 www.judicialwatch.org
+judicialwatch.org
+www.judicialwatch.org
 # 20. American Thinker
-0.0.0.0 americanthinker.com
-0.0.0.0 www.americanthinker.com
+americanthinker.com
+www.americanthinker.com
 # 21. The Federalist
-0.0.0.0 thefederalist.com
-0.0.0.0 www.thefederalist.com
+thefederalist.com
+www.thefederalist.com
 # 22. Hot Air
-0.0.0.0 hotair.com
-0.0.0.0 www.hotair.com
+hotair.com
+www.hotair.com
 # 23. Free Republic
-0.0.0.0 freerepublic.com
-0.0.0.0 www.freerepublic.com
+freerepublic.com
+www.freerepublic.com
 # 24. Twitchy
-0.0.0.0 twitchy.com
-0.0.0.0 www.twitchy.com
+twitchy.com
+www.twitchy.com
 # 25. The Conservative Treehouse
-0.0.0.0 theconservativetreehouse.com
-0.0.0.0 www.theconservativetreehouse.com
+theconservativetreehouse.com
+www.theconservativetreehouse.com
 # 26. Heritage
-0.0.0.0 heritagenews.com
-0.0.0.0 www.heritagenews.com
+heritagenews.com
+www.heritagenews.com
 # 27. Red State
-0.0.0.0 redstate.com
-0.0.0.0 www.redstate.com
+redstate.com
+www.redstate.com
 # 28. Free Beacon
-0.0.0.0 freebeacon.com
-0.0.0.0 www.freebeacon.com
+freebeacon.com
+www.freebeacon.com
 # 29. Newsbusters
-0.0.0.0 newsbusters.org
-0.0.0.0 www.newsbusters.org
+newsbusters.org
+www.newsbusters.org
 # 30. Rush Limbaugh
-0.0.0.0 rushlimbaugh.com
-0.0.0.0 www.rushlimbaugh.com
+rushlimbaugh.com
+www.rushlimbaugh.com
 # 31. Stripes
-0.0.0.0 stripes.com
-0.0.0.0 www.stripes.com
+stripes.com
+www.stripes.com
 # 32. Chicks On The Right
-0.0.0.0 chicksonright.com
-0.0.0.0 www.chicksonright.com
+chicksonright.com
+www.chicksonright.com
 # 33. The American Conservative
-0.0.0.0 theamericanconservative.com
-0.0.0.0 www.theamericanconservative.com
+theamericanconservative.com
+www.theamericanconservative.com
 # 34. Powerline Blog
-0.0.0.0 powerlineblog.com
-0.0.0.0 www.powerlineblog.com
+powerlineblog.com
+www.powerlineblog.com
 # 35. CNS News
-0.0.0.0 nsnews.com
-0.0.0.0 www.nsnews.com
+nsnews.com
+www.nsnews.com
 # 36. Lew Rockwell
-0.0.0.0 lewrockwell.com
-0.0.0.0 www.lewrockwell.com
+lewrockwell.com
+www.lewrockwell.com
 # 37. Daily Signal
-0.0.0.0 dailysignal.com
-0.0.0.0 www.dailysignal.com
+dailysignal.com
+www.dailysignal.com
 # 38. Louder With Crowder
-0.0.0.0 louderwithcrowder.com
-0.0.0.0 www.louderwithcrowder.com
+louderwithcrowder.com
+www.louderwithcrowder.com
 # 39. The American Mirror
-0.0.0.0 theamericanmirror.com
+theamericanmirror.com
 0.0.0. www.theamericanmirror.com
 # 40. The Mental Recession
-0.0.0.0 menrec.com
-0.0.0.0 www.menrec.com
+menrec.com
+www.menrec.com
 # 41. The Right Scoop
-0.0.0.0 therightscoop.com
+therightscoop.com
 0.0.0. www.therightscoop.com
 # 42. Big League Politics
-0.0.0.0 bigleaguepolitics.com
-0.0.0.0 www.bigleaguepolitics.com
+bigleaguepolitics.com
+www.bigleaguepolitics.com
 # 43. Weekly Standard
-0.0.0.0 weeklystandard.com
-0.0.0.0 www.weeklystandard.com
+weeklystandard.com
+www.weeklystandard.com
 # 44. True Pundit
-0.0.0.0 truepundit.com
-0.0.0.0 www.truepundit.com
+truepundit.com
+www.truepundit.com
 # 45. Lucianne
-0.0.0.0 lucianne.com
-0.0.0.0 www.lucianne.com
+lucianne.com
+www.lucianne.com
 # 46. Weasel Zippers
-0.0.0.0 weaselzippers.us
-0.0.0.0 www.weaselzippers.us
+weaselzippers.us
+www.weaselzippers.us
 # 47. McClatchy DC
-0.0.0.0 mcclatchydc.com
-0.0.0.0 www.mcclatchydc.com
+mcclatchydc.com
+www.mcclatchydc.com
 # 48. Frontpage Mag
-0.0.0.0 frontpagemag.com
-0.0.0.0 www.frontpagemag.com
+frontpagemag.com
+www.frontpagemag.com
 # 49. Hannity
-0.0.0.0 hannity.com
-0.0.0.0 www.hannity.com
+hannity.com
+www.hannity.com
 # 50. The Political Insider
-0.0.0.0 thepoliticalinsider.com
-0.0.0.0 www.thepoliticalinsider.com
+thepoliticalinsider.com
+www.thepoliticalinsider.com
 # 51. The Federalist Papers
-0.0.0.0 thefederalistpapers.org
-0.0.0.0 www.thefederalistpapers.org
+thefederalistpapers.org
+www.thefederalistpapers.org
 # 52. What Really Happened
-0.0.0.0 whatreallyhappened.com
-0.0.0.0 www.whatreallyhappened.com
+whatreallyhappened.com
+www.whatreallyhappened.com
 # 53. Spectator.org
-0.0.0.0 spectator.org
-0.0.0.0 www.spectator.org
+spectator.org
+www.spectator.org
 # 54. Legal Insurrection
-0.0.0.0 legalinsurrection.com
-0.0.0.0 www.legalinsurrection.com
+legalinsurrection.com
+www.legalinsurrection.com
 # 55. Trump Train News
-0.0.0.0 trumptrainnews.com
-0.0.0.0 www.trumptrainnews.com
+trumptrainnews.com
+www.trumptrainnews.com
 # 56. Independent Journal Review (IJR)
-0.0.0.0 ijr.com
-0.0.0.0 www.ijr.com
+ijr.com
+www.ijr.com
 # 57. Prison Planet
-0.0.0.0 prisonplanet.com
-0.0.0.0 www.prisonplanet.com
+prisonplanet.com
+www.prisonplanet.com
 # 58. The Horn News
-0.0.0.0 thehornnews.com
-0.0.0.0 www.thehornnews.com
+thehornnews.com
+www.thehornnews.com
 # 59. The Liberty Daily
-0.0.0.0 thelibertydaily.com
-0.0.0.0 www.thelibertydaily.com
+thelibertydaily.com
+www.thelibertydaily.com
 # 60. The Common Sense Show
-0.0.0.0 thecommonsenseshow.com
-0.0.0.0 www.thecommonsenseshow.com
+thecommonsenseshow.com
+www.thecommonsenseshow.com
 # 61. First Things
-0.0.0.0 firstthings.com
-0.0.0.0 www.firstthings.com
+firstthings.com
+www.firstthings.com
 # 62. Bill O’Reilly
-0.0.0.0 billoreilly.com
-0.0.0.0 www.billoreilly.com
+billoreilly.com
+www.billoreilly.com
 # 63. Red State Watcher
-0.0.0.0 redstatewatcher.com
-0.0.0.0 www.redstatewatcher.com
+redstatewatcher.com
+www.redstatewatcher.com
 # 64. Informatin Liberation
-0.0.0.0 informationliberation.com
-0.0.0.0 www.informationliberation.com
+informationliberation.com
+www.informationliberation.com
 # 65. 100 Percent Fed Up
-0.0.0.0 100percentfedup.com
-0.0.0.0 www.100percentfedup.com
+100percentfedup.com
+www.100percentfedup.com
 # 66. Conservative Review
-0.0.0.0 conservativereview.com
-0.0.0.0 www.conservativereview.com
+conservativereview.com
+www.conservativereview.com
 # 67. The Rebel
-0.0.0.0 rebelnews.com
-0.0.0.0 www.rebelnews.com
+rebelnews.com
+www.rebelnews.com
 # 68. Canada Free Press
-0.0.0.0 canadafreepress.com
-0.0.0.0 www.canadafreepress.com
+canadafreepress.com
+www.canadafreepress.com
 # 69. Ann Coulter
-0.0.0.0 anncoulter.com
-0.0.0.0 www.anncoulter.com
+anncoulter.com
+www.anncoulter.com
 # 70. MRCTV
-0.0.0.0 mrctv.org
-0.0.0.0 www.mrctv.org
+mrctv.org
+www.mrctv.org
 # 71. Glenn Beck
-0.0.0.0 glennbeck.com
-0.0.0.0 www.glennbeck.com
+glennbeck.com
+www.glennbeck.com
 # 72. Bipartisan Report
-0.0.0.0 bipartisanreport.com
-0.0.0.0 www.bipartisanreport.com
+bipartisanreport.com
+www.bipartisanreport.com
 # 73. Dick Morris
-0.0.0.0 dickmorris.com
-0.0.0.0 www.dickmorris.com
+dickmorris.com
+www.dickmorris.com
 # 74. Conservative Daily Post
-0.0.0.0 conservativedailypost.com
-0.0.0.0 www.conservativedailypost.com
+conservativedailypost.com
+www.conservativedailypost.com
 # 75. Steyn Online
-0.0.0.0 steynonline.com
-0.0.0.0 www.steynonline.com
+steynonline.com
+www.steynonline.com
 # 76. Dangerous.com
 # 20210227: SMc: So this should be shutdown, but will block it anyway: https://www.forbes.com/sites/jonathanberr/2019/10/17/milo-yiannopoulos-website-abruptly-shuts-down-after-sale/?sh=688cd3fd5a0a
-0.0.0.0 dangerous.com
-0.0.0.0 www.dangerous.com
+dangerous.com
+www.dangerous.com
 # 77. Clash Daily
-0.0.0.0 clashdaily.com
-0.0.0.0 www.clashdaily.com
+clashdaily.com
+www.clashdaily.com
 # 78. The Daily Sheeply
-0.0.0.0 thedailysheeple.com
-0.0.0.0 www.thedailysheeple.com
+thedailysheeple.com
+www.thedailysheeple.com
 # 79. Patriot Post
-0.0.0.0 patriotpost.us
-0.0.0.0 www.patriotpost.us
+patriotpost.us
+www.patriotpost.us
 # 80. Mark Levin Show
-0.0.0.0 marklevinshow.com
-0.0.0.0 www.marklevinshow.com
+marklevinshow.com
+www.marklevinshow.com
 # 81. The Blacksphere
-0.0.0.0 theblacksphere.net
-0.0.0.0 www.theblacksphere.net
+theblacksphere.net
+www.theblacksphere.net
 # 82. Human Events
-0.0.0.0 humanevents.com
-0.0.0.0 www.humanevents.com
+humanevents.com
+www.humanevents.com
 # 83. Mad World News
-0.0.0.0 madworldnews.com
-0.0.0.0 www.madworldnews.com
+madworldnews.com
+www.madworldnews.com
 # 84. Linkiest
-0.0.0.0 linkiest.com
-0.0.0.0 www.linkiest.com
+linkiest.com
+www.linkiest.com
 # 85. GOP USA
-0.0.0.0 gopusa.com
-0.0.0.0 www.gopusa.com
+gopusa.com
+www.gopusa.com
 # 86. Blazing Cat Fur
-0.0.0.0 blazingcatfur.ca
-0.0.0.0 www.blazingcatfur.ca
+blazingcatfur.ca
+www.blazingcatfur.ca
 # 87. MRC
-0.0.0.0 mrc.org
-0.0.0.0 www.mrc.org
+mrc.org
+www.mrc.org
 # 88. Freedom Works
-0.0.0.0 freedomworks.org
-0.0.0.0 www.freedomworks.org
+freedomworks.org
+www.freedomworks.org
 # 89. Michelle Malkin: 20210227: SMc: Can't find any web sites except ArcaMax & Newsmax which I'm blocking.
 # 90. Dennis Michael Lynch
-0.0.0.0 dennismichaellynch.com
-0.0.0.0 www.dennismichaellynch.com
+dennismichaellynch.com
+www.dennismichaellynch.com
 # 91. Moon Battery
-0.0.0.0 moonbattery.com
-0.0.0.0 www.moonbattery.com
+moonbattery.com
+www.moonbattery.com
 # 92. DownTrend: 20270227: SMc: Don't see this web site when searching, but maybe just downtrend.com?
-0.0.0.0 downtrend.com
-0.0.0.0 www.downtrend.com
+downtrend.com
+www.downtrend.com
 # 93. Daily Headlines
-0.0.0.0 dailyheadlines.net
-0.0.0.0 www.dailyheadlines.net
+dailyheadlines.net
+www.dailyheadlines.net
 # 94. Three Percent Nation
-0.0.0.0 threepercenternation.com
-0.0.0.0 www.threepercenternation.com
+threepercenternation.com
+www.threepercenternation.com
 # 95. Accuracy In Media (AIM)
-0.0.0.0 aim.org
-0.0.0.0 www.aim.org
+aim.org
+www.aim.org
 # 96. The Resurgent
-0.0.0.0 resurgent.com
-0.0.0.0 www.resurgent.com
+resurgent.com
+www.resurgent.com
 # 97. We Are Change
-0.0.0.0 wearechange.org
-0.0.0.0 www.wearechange.org
+wearechange.org
+www.wearechange.org
 # 98. Joe Miller
-0.0.0.0 joemiller.us
-0.0.0.0 www.joemiller.us
+joemiller.us
+www.joemiller.us
 # 99. Conservative-Daily.com
-0.0.0.0 conservative-daily.com
-0.0.0.0 www.conservative-daily.com
+conservative-daily.com
+www.conservative-daily.com
 # 100. Renew America
-0.0.0.0 renewamerica.com
-0.0.0.0 www.renewamerica.com
+renewamerica.com
+www.renewamerica.com
 # 101. Daniel Pipes
-0.0.0.0 danielpipes.org
-0.0.0.0 www.danielpipes.org
+danielpipes.org
+www.danielpipes.org
 # 102. The Other McCain
-0.0.0.0 theothermccain.com
-0.0.0.0 www.theothermccain.com
+theothermccain.com
+www.theothermccain.com
 # 103. Truth Revolt
-0.0.0.0 thetruthrevolution.net
-0.0.0.0 www.thetruthrevolution.net
+thetruthrevolution.net
+www.thetruthrevolution.net
 # 104. Outside The Beltway
-0.0.0.0 outsidethebeltway.com
-0.0.0.0 www.outsidethebeltway.com
+outsidethebeltway.com
+www.outsidethebeltway.com
 # 105. Da Tech Guy Blog
-0.0.0.0 datechguyblog.com
-0.0.0.0 www.datechguyblog.com
+datechguyblog.com
+www.datechguyblog.com
 # 106. Conservative HQ
-0.0.0.0 conservativehq.org
-0.0.0.0 www.conservativehq.org
+conservativehq.org
+www.conservativehq.org
 # 107. Whitehouse Dossier
-0.0.0.0 whitehousedossier.com
-0.0.0.0 www.whitehousedossier.com
+whitehousedossier.com
+www.whitehousedossier.com
 # 108. Conservative Read
-0.0.0.0 theconservativeread.com
-0.0.0.0 www.theconservativeread.com
+theconservativeread.com
+www.theconservativeread.com
 # 109. Conservative Fighters
-0.0.0.0 conservativefighters.org
-0.0.0.0 www.conservativefighters.org
+conservativefighters.org
+www.conservativefighters.org
 # 110. Red Alert Politics
-0.0.0.0 redalertpolitics.com
-0.0.0.0 www.redalertpolitics.com
+redalertpolitics.com
+www.redalertpolitics.com
 # 111. Debbie Schlussel
-0.0.0.0 debbieschlussel.com
-0.0.0.0 www.debbieschlussel.com
+debbieschlussel.com
+www.debbieschlussel.com
 # 112. America’s Freedom Fighters
-0.0.0.0 americasfreedomfighters.com
-0.0.0.0 www.americasfreedomfighters.com
+americasfreedomfighters.com
+www.americasfreedomfighters.com
 # 113. Disinfo
-0.0.0.0 disinfo.com
-0.0.0.0 www.disinfo.com
+disinfo.com
+www.disinfo.com
 # 114. Republic Buzz
-0.0.0.0 republicbuzz.com
-0.0.0.0 www.republicbuzz.com
+republicbuzz.com
+www.republicbuzz.com
 # 115. The Matt Walsh Blog
-0.0.0.0 themattwalshblog.com
-0.0.0.0 www.themattwalshblog.com
+themattwalshblog.com
+www.themattwalshblog.com
 # 116. Revolution Radio
-0.0.0.0 revolutionradio.org
-0.0.0.0 www.revolutionradio.org
+revolutionradio.org
+www.revolutionradio.org
 # 117. Danger And Play Updated: Cernovich.com
-0.0.0.0 cernovich.com
-0.0.0.0 www.cernovich.com
+cernovich.com
+www.cernovich.com
 # 118. True Viral News: 20210227: SMc: Don't see a site when searching DDG for this.
 # 119. Patriot Journal
-0.0.0.0 patriotjournal.org
-0.0.0.0 www.patriotjournal.org
+patriotjournal.org
+www.patriotjournal.org
 # 120. I Have The Truth: 20270227: SMc: Not sure if this is the right one, but adding it anyway.
-0.0.0.0 thetruth.com
-0.0.0.0 www.thetruth.com
+thetruth.com
+www.thetruth.com
 # 121. US Defense Watch
-0.0.0.0 usdefensewatch.com
-0.0.0.0 www.usdefensewatch.com
+usdefensewatch.com
+www.usdefensewatch.com
 # 122. Conservative 101: 20210227: SMc: Don't see a site when searching DDG.
 # 123. 63 Red
-0.0.0.0 63red.com
-0.0.0.0 www.63red.com
+63red.com
+www.63red.com
 # 124. Supreme Patriot
-0.0.0.0 patriotsupreme.com
-0.0.0.0 www.patriotsupreme.com
+patriotsupreme.com
+www.patriotsupreme.com
 # 125. Headline Politics
-0.0.0.0 headlinepolitics.com
-0.0.0.0 www.headlinepolitics.com
+headlinepolitics.com
+www.headlinepolitics.com
 # 126. Regated
-0.0.0.0 regated.com
-0.0.0.0 www.regated.com
+regated.com
+www.regated.com
 
 # Found when looking for Michelle Malkin's web sites
-0.0.0.0 arcamax.com
-0.0.0.0 www.arcamax.com
-0.0.0.0 newsmax.com
-0.0.0.0 www.newsmax.com
+arcamax.com
+www.arcamax.com
+newsmax.com
+www.newsmax.com
 
 # Found when searching for "Truth Revolt"
-0.0.0.0 horowitzfreedomcenter.org
-0.0.0.0 www.horowitzfreedomcenter.org
+horowitzfreedomcenter.org
+www.horowitzfreedomcenter.org
 
 # 20210306: SMc: Adding gab.social after seeing https://github.com/micahflee/gab-social
-0.0.0.0 gab.social
-0.0.0.0 www.gab.social
+gab.social
+www.gab.social
 
 # 20210420: SMc: Adding Frank Speech, by Mike Lindell (the My Pillow guy). Also adding the supposed builders of the site: Johnston Howse.
-0.0.0.0 frankspeech.com
-0.0.0.0 www.frankspeech.com
-0.0.0.0 JohnstonHowse.com
-0.0.0.0 www.JohnstonHowse.com
-0.0.0.0 Rhubarb-Terrier-x8ya.squarespace.com
+frankspeech.com
+www.frankspeech.com
+JohnstonHowse.com
+www.JohnstonHowse.com
+Rhubarb-Terrier-x8ya.squarespace.com
 
 # 20210505: SMc: Adding trump's site: https://www.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog
-0.0.0.0 DonaldJTrump.com
-0.0.0.0 www.DonaldJTrump.com
+DonaldJTrump.com
+www.DonaldJTrump.com
 
 # 20210701: SMc: https://www.axios.com/jason-miller-social-media-gettr-donald-trump-46b0da7e-0d24-41f7-b7a0-6114e117f6f2.html
-0.0.0.0 gettr.com
-0.0.0.0 www.gettr.com
-0.0.0.0 freespacesocial.app
-0.0.0.0 www.freespacesocial.app
+gettr.com
+www.gettr.com
+freespacesocial.app
+www.freespacesocial.app
 
 # 20211021: SMc: trump's nwe "social network"
 # https://mashable.com/article/trump-truth-social-hacked-trolls
-0.0.0.0 truthsocial.com
-0.0.0.0 www.truthsocial.com
-0.0.0.0 tmediatech.io
-0.0.0.0 www.tmediatech.io
+truthsocial.com
+www.truthsocial.com
+tmediatech.io
+www.tmediatech.io
 
 # 20211026: SMc: Will host trump's site.
-0.0.0.0 rightforge.com
-0.0.0.0 www.rightforge.com
+rightforge.com
+www.rightforge.com
