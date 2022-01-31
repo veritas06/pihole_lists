@@ -418,3 +418,27 @@ www.tmediatech.io
 # 20211026: SMc: Will host trump's site.
 rightforge.com
 www.rightforge.com
+
+# 20220131: SMc: I'm blocking Spotify since they're willing to lose artists to keep joe rogan:
+# Source: https://gist.github.com/captainhook/9eb4132d6e58888e37c6bc6c73dd4e60
+apresolve.spotify.com #access point list also used for chromecast
+api-spotify.com
+api-partner.spotify.com
+api-tv.spotify.com
+ash-dealer.spotify.com #Load balancer
+ash.weblb-wg.dual-gslb.spotify.com #Load balancer
+audio-sp.spotify.com #Audio server!
+audio-fa.spotify.com #Audio server!
+dealer.spotify.com
+dealer-ssl.spotify.com
+gslb.spotify.com
+open.scdn.co
+open.spotify.com #web player, you can block this for app only
+play.spotify.com #web player, you can block this for app only
+spclient.spotify.com
+sto3.spotify.com
+wg.spotify.com #(*) Breaks entire app
+geo3.ggpht.com #Just dont block!
+googlehosted.l.googleusercontent.com #Just dont block!
+redirector.gvt1.com
+spotify.com
