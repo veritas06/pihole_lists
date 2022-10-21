@@ -1,0 +1,24 @@
+# 20221021: SMc: Just a single file for Whitelist & Blacklist because I don't think you can input RegEx lists to Pi-Hole & I want a backup
+# Whitelist
+# Giphy Whitelist RegEx 03
+^media[1-4]\.giphy\.com$
+# Debian NTP Whitelist RegEx 03
+^[0-3]\.debian\.pool\.ntp\.org$
+# Android NTP Whitelist RegEx 03
+^[0-3]\.android\.pool\.ntp\.org$
+# Gizmodo Images Whitelist RegEx 03
+^(f|x)\.kinja-static\.com$
+# Microsoft Whitelist RegEx 03
+^(account|graph|login)\.microsoft\.com$
+# Firefox Whitelist RegEx
+^(accounts|api.accounts|oauth\.accounts|profile\.accounts)\.firefox\.com$
+# Mozilla Whitelist RegEx
+^(accounts-static\.cdn|firefox\.settings\.services|static-media-prod-cdn\.itsre-sumo|support|token\.services)\.mozilla\.(com|net)$
+# Reddit Whitelist RegEx 03
+(\.|^)reddit\.com$
+# Apple Whitelist RegEx 03
+^(albert|apps|cl2|configuration|gdmf|gs-loc|gsa|gsp64-ssl\.ls|gsp9-ssl|iadsdk|init\.itunes|iosapps\.itunes|itunes|mesu|time|valid|weather-data|xp)\.apple\.com$
+# Hulu Whitelist RegEx 03
+^(auth|home|img3|play|secure|signup)\.hulu\.com$
+
+# Blacklist
