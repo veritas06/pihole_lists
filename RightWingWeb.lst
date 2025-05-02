@@ -581,3 +581,11 @@ www.project2025.org
 # 20240831: SMc: Mike lindell social network
 frankspeech.com
 www.frankspeech.com
+
+# 20250502: SMc: I don't believe Pi-Hole is going to let me block a specific directory on a site, so I'm just blocking all of whitehouse.gov since they're turning it into a propaganda site.
+# The Guardian: [White House launches news-style site to promote favorable coverage of Trump](https://www.theguardian.com/us-news/2025/may/01/white-house-trump-news-website)
+# Axios: [Scoop: White House launches Drudge-style website to promote Trump](https://www.axios.com/2025/04/30/trump-white-house-drudge-style-website-launch)
+whitehouse.gov
+www.whitehouse.gov
+# whitehouse.gov/wire/
+# www.whitehouse.gov/wire/
